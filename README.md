@@ -1,2 +1,2 @@
-# AED-Exercicios
+# Algoritmos e Estruturas de Dados - Exercícios
 Awesome
