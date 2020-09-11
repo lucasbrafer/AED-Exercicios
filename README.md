@@ -27,5 +27,10 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 1. [:orange_book: Desafio Proposto](desafio.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
+##### Tabela Hash
+1. [:orange_book: Desafio Proposto](desafio.pdf)
+1. [:blue_book: Código Implementado](codigo.cs)
+
+
 ## Licença
 Este projeto está sob a Licença [MIT](LICENSE.md)
