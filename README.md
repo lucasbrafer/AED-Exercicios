@@ -33,7 +33,7 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 
 #### Tabela Hash e Árvore Binária
 1. [:orange_book: Desafio: Agenda Telefônica](Tabela-Hash/ArvoreBinária-e-TabelaHash.pdf)
-1. [:blue_book: Código Implementado](Program.cs)
+1. [:blue_book: Código Implementado](Tabela-Hash/Program.cs)
 
 
 ## Licença
