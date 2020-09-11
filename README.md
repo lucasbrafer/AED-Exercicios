@@ -10,7 +10,7 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 
 ##### Recursividade
 1. [:orange_book: Desafio: Tabela da Verdade](Tabela da Verdade-Extra/TabeladaVerdade.pdf)
-1. [:blue_book: Código Implementado](Program.cs)
+1. [:blue_book: Código Implementado](Tabela da Verdade-Extra\Program.cs)
 1. [:orange_book: Desafio: MDC](MDC/MDC.pdf)
 1. [:blue_book: Código Implementado](Program.cs)
 
