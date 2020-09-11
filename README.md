@@ -4,7 +4,7 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 ## Arquivos :books:
 
 ##### Análise de algoritmos
-1. [:orange_book: Desafio Proposto](desafio.pdf)
+1. [:orange_book: Desafio Proposto](Análise de Algoritmo/1351298_Lab 03 - Distância entre Pontos.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
 ##### Recursividade
