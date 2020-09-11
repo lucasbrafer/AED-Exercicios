@@ -4,13 +4,15 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 ## Arquivos :books:
 
 ##### Análise de algoritmos
-1. [:orange_book: Desafio Proposto](Analise-de-Algoritmo/Distancia-entre-Pontos.pdf)
+1. [:orange_book: Desafio: Distância entre Pontos](Analise-de-Algoritmo/Distancia-entre-Pontos.pdf)
 1. [:blue_book: Documento de Análise](Analise-de-Algoritmo/Relatorio.pdf)
 1. [:green_book: Código Implementado](Analise-de-Algoritmo/Program.cs)
 
 ##### Recursividade
-1. [:orange_book: Desafio Proposto](desafio.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+1. [:orange_book: Desafio: Tabela da Verdade](Tabela da Verdade/TabeladaVerdade.pdf)
+1. [:blue_book: Código Implementado](Program.cs)
+1. [:orange_book: Desafio: MDC](MDC/MDC.pdf)
+1. [:blue_book: Código Implementado](Program.cs)
 
 ##### Pilha
 1. [:orange_book: Desafio Proposto](desafio.pdf)
