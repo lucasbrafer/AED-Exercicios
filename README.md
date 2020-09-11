@@ -15,25 +15,25 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 1. [:blue_book: Código Implementado](Recursividade/MDC/Program.cs)
 
 #### Pilha
-1. [:orange_book: Desafio: Dinâmica e Estática](TAD-Pilha.pdf)
-1. [:blue_book: Dinâmica: Código Implementado](PilhaDinamica)
-1. [:green_book: Estática: Código Implementado](PilhaEstatica)
+1. [:orange_book: Desafio: Dinâmica e Estática](Pilha/TAD-Pilha.pdf)
+1. [:blue_book: Dinâmica: Código Implementado](Pilha/PilhaDinamica)
+1. [:green_book: Estática: Código Implementado](Pilha/PilhaEstatica)
 
 #### Fila
-1. [:orange_book: Desafio Proposto](desafio.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+1. [:orange_book: Desafio: URI Adivinhar a Estrutura de Dados](Fila/URI-EuPossoAdivinharaEstruturadeDados.pdf)
+1. [:blue_book: Código Implementado](Fila/Fila.cs)
 
 #### Lista
-1. [:orange_book: Desafio Proposto](desafio.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+1. [:orange_book: Desafio: Acesso Web](Lista/TAD-Lista.pdf)
+1. [:blue_book: Código Implementado](Lista/Lista.cs)
 
 #### Pesquisa Binária
-1. [:orange_book: Desafio Proposto](desafio.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+1. [:orange_book: Desafio: Agenda Telefônica](Pesquisa-Binaria/PesquisaBinaria.pdf)
+1. [:blue_book: Código Implementado](Pesquisa-Binaria/PesquisaBinaria.cs)
 
-#### Tabela Hash
-1. [:orange_book: Desafio Proposto](desafio.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+#### Tabela Hash e Árvore Binária
+1. [:orange_book: Desafio: Agenda Telefônica](Tabela-Hash/ArvoreBinária-e-TabelaHash.pdf)
+1. [:blue_book: Código Implementado](Program.cs)
 
 
 ## Licença
