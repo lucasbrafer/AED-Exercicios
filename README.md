@@ -3,35 +3,35 @@ Exercícios proposto pelo professor ao longo do semestre como forma de validaç�
 
 ## Arquivos :books:
 
-##### Análise de algoritmos
+#### Análise de algoritmos
 1. [:orange_book: Desafio: Distância entre Pontos](Analise-de-Algoritmo/Distancia-entre-Pontos.pdf)
 1. [:blue_book: Documento de Análise](Analise-de-Algoritmo/Relatorio.pdf)
 1. [:green_book: Código Implementado](Analise-de-Algoritmo/Program.cs)
 
-##### Recursividade
-1. [:orange_book: Desafio: Tabela da Verdade](TabeladaVerdade-Extra/TabeladaVerdade.pdf)
-1. [:blue_book: Código Implementado](TabeladaVerdade-Extra\Program.cs)
-1. [:orange_book: Desafio: MDC](MDC/MDC.pdf)
-1. [:blue_book: Código Implementado](MDC/Program.cs)
+#### Recursividade
+1. [:orange_book: Desafio: Tabela da Verdade](Recursividade/TabeladaVerdade-Extra/TabeladaVerdade.pdf)
+1. [:blue_book: Código Implementado](Recursividade/TabeladaVerdade-Extra\Program.cs)
+1. [:orange_book: Desafio: MDC](Recursividade/MDC/MDC.pdf)
+1. [:blue_book: Código Implementado](Recursividade/MDC/Program.cs)
 
-##### Pilha
+#### Pilha
 1. [:orange_book: Desafio: Dinâmica e Estática](TAD-Pilha.pdf)
 1. [:blue_book: Dinâmica: Código Implementado](PilhaDinamica)
 1. [:green_book: Estática: Código Implementado](PilhaEstatica)
 
-##### Fila
+#### Fila
 1. [:orange_book: Desafio Proposto](desafio.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
-##### Lista
+#### Lista
 1. [:orange_book: Desafio Proposto](desafio.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
-##### Pesquisa Binária
+#### Pesquisa Binária
 1. [:orange_book: Desafio Proposto](desafio.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
-##### Tabela Hash
+#### Tabela Hash
 1. [:orange_book: Desafio Proposto](desafio.pdf)
 1. [:blue_book: Código Implementado](codigo.cs)
 
