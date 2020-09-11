@@ -1,11 +1,12 @@
 # Algoritmos e Estruturas de Dados - Exercícios
-Exercícios proposto pelo professor ao longo do semestre como forma de validação do conhecimento desenvolvido sobre Análise de algoritmos, Recursividade, Fila, Lista, Pilha e Pesquisa Binária, Tabela Hash.
+Exercícios proposto pelo professor ao longo do semestre como forma de validação do conhecimento desenvolvido sobre Análise de algoritmos, Recursividade, Fila, Lista, Pilha, Pesquisa Binária, Árvore Binária e Tabela Hash para disciplina Algoritmos e Estruturas de Dados.
 
 ## Arquivos :books:
 
 ##### Análise de algoritmos
-1. [:orange_book: Desafio Proposto](Análise de Algoritmo/1351298_Lab 03 - Distância entre Pontos.pdf)
-1. [:blue_book: Código Implementado](codigo.cs)
+1. [:orange_book: Desafio Proposto](Analise-de-Algoritmo/Distancia-entre-Pontos.pdf)
+1. [:blue_book: Documento de Análise](Analise-de-Algoritmo/Relatorio.pdf)
+1. [:green_book: Código Implementado](Analise-de-Algoritmo/Program.cs)
 
 ##### Recursividade
 1. [:orange_book: Desafio Proposto](desafio.pdf)
